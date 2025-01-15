@@ -135,7 +135,3 @@ Feel free to contribute to this project by submitting issues or pull requests!
   ```bash
   REACT_APP_API_KEY=your_api_key_here
 ```
-
-
-
-
