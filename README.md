@@ -35,7 +35,7 @@ This repository contains an advanced To-Do application developed using React wit
 ## Screenshots
 
 ### Login Page
-![Login Page]("https://freeimage.host/i/265OF4f")
+![Login Page]("<img width="958" alt="Screenshot 2025-01-15 100737" src="https://github.com/user-attachments/assets/5199756c-ccf3-4c81-857a-06099a49bf5a" />")
 
 ### Task List View
 ![Task List]("C:\Users\sharm\Downloads\Screenshot 2025-01-15 101300.png")
