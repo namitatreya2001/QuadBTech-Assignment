@@ -35,7 +35,7 @@ This repository contains an advanced To-Do application developed using React wit
 ## Screenshots
 
 ### Login Page
-![Login Page]("C:\Users\sharm\Downloads\Screenshot 2025-01-15 100737.png")
+![Login Page]("https://ibb.co/kSN39Q2")
 
 ### Task List View
 ![Task List]("C:\Users\sharm\Downloads\Screenshot 2025-01-15 101300.png")
