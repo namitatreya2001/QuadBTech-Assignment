@@ -35,16 +35,16 @@ This repository contains an advanced To-Do application developed using React wit
 ## Screenshots
 
 ### Login Page
-![Login Page]("<img width="958" alt="Screenshot 2025-01-15 100737" src="https://github.com/user-attachments/assets/5199756c-ccf3-4c81-857a-06099a49bf5a" />")
+("<img width="958" alt="Screenshot 2025-01-15 100737" src="https://github.com/user-attachments/assets/5199756c-ccf3-4c81-857a-06099a49bf5a" />")
 
 ### Task List View
-![Task List]("C:\Users\sharm\Downloads\Screenshot 2025-01-15 101300.png")
+("<img width="629" alt="Screenshot 2025-01-15 101300" src="https://github.com/user-attachments/assets/ba1b55ac-a44c-43fd-b617-93d3f030f2bc" />")
 
 ### Add Task Feature
-![Add Task]("C:\Users\sharm\Downloads\Screenshot 2025-01-15 101421.png")
+("<img width="955" alt="Screenshot 2025-01-15 101421" src="https://github.com/user-attachments/assets/944ee9b4-d3f3-464b-a3c5-5bb246c82fd8" />")
 
 ### Responsive Design
-![Responsive View]("C:\Users\sharm\Downloads\Screenshot 2025-01-15 101605.png")
+("<img width="944" alt="Screenshot 2025-01-15 101605" src="https://github.com/user-attachments/assets/2eecd24e-875e-4f48-9860-a2a318b70b66" />")
 
 ---
 
