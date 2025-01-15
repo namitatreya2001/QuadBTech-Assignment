@@ -71,39 +71,71 @@ npm run dev
 ```
 Application will run on http://localhost:5173/
 
-###How to Use
-##Adding a Task
--Enter the task description in the input field.
--Optionally, set the task's priority (High, Medium, Low).
--Press Enter or click the "+" button to add the task.
+# To-Do List Application
 
-##Viewing Tasks
-Tasks are displayed in a list format. Tasks with higher priority are highlighted.
+A feature-rich To-Do List application built with React and Redux that helps users manage tasks efficiently. This app supports task prioritization, user authentication, and API integration with the Spoonacular Food API.
 
-##Deleting a Task
-Click the delete button next to a task to remove it from the list.
+---
 
-##Authentication
--Login to access the To-Do list
--Logout to clear session data.
+## 🚀 Features
 
-###Technologies Used
--Frontend: React, Redux, Redux Thunk, Material-UI, CSS (Flexbox, Grid)
--API Integration: Spoonacular Food API
--State Management: Redux
--Package Management: npm
+### Adding a Task
+- Enter the task description in the input field.
+- Optionally, set the task's priority (High, Medium, Low).
+- Press `Enter` or click the `+` button to add the task.
 
-###License
-This project is licensed under the MIT License.
+### Viewing Tasks
+- Tasks are displayed in a list format.
+- Tasks with higher priority are highlighted for better visibility.
 
-###Author
-https://github.com/namitatreya2001
+### Deleting a Task
+- Click the `Delete` button next to a task to remove it from the list.
+
+### Authentication
+- **Login**: Access the To-Do list by logging into your account.
+- **Logout**: Clear session data by logging out.
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+- **React**: For building the UI.
+- **Redux**: For state management.
+- **Redux Thunk**: For handling asynchronous operations.
+- **Material-UI**: For styling and component design.
+- **CSS**: Layout designed using Flexbox and Grid.
+
+### API Integration
+- **Spoonacular Food API**: Integrated for enhanced functionality.
+
+### State Management
+- **Redux**: Ensures a smooth flow of data and state updates across the application.
+
+### Package Management
+- **npm**: For managing dependencies and scripts.
+
+---
+
+### License
+
+This project is licensed under the **MIT License**.
+
+---
+
+### Author
+
+GitHub: [@namitatreya2001](https://github.com/namitatreya2001)  
 Feel free to contribute to this project by submitting issues or pull requests!
 
-###Additional Notes
--Ensure you update the .env file with your API key for the Spoonacular Food API:
-```bash
-REACT_APP_API_KEY=your_api_key_here
+---
+
+### Additional Notes
+- Ensure you update the `.env` file with your API key for the Spoonacular Food API:
+  ```bash
+  REACT_APP_API_KEY=your_api_key_here
 ```
--For any issues, please create an issue in the GitHub repository.
+
+
+
 
